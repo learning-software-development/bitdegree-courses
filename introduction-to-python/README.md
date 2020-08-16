@@ -1,4 +1,4 @@
-# :beginner: :snake: Introduction to Python: Master Python Basics in Only 2 Hours
+# :mortar_board: :snake: Introduction to Python: Master Python Basics in Only 2 Hours
 
 Learning the basics of Python in conjuntion with [Learn Python 2](https://www.codecademy.com/learn/learn-python) from [Codecademy](https://www.codecademy.com)
 

@@ -1,4 +1,4 @@
-# :beginner: Learn Basic Algebra Online: Algebra Lessons for Beginners
+# :mortar_board: Learn Basic Algebra Online: Algebra Lessons for Beginners
 
 :link: [Online course][course] on BitDegree
 
