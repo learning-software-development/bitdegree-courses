@@ -15,6 +15,7 @@ Online courses and tutorials on BitDegree that I completed to expand my knowledg
 4. :o: Learn Web Design: The Ultimate Guide For Beginners
 5. :heavy_check_mark: [Beginner Guide to How to Make a Game with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Beginner-Guide-to-How-to-Make-a-Game-with-Unity) :rocket:
 6. :o: [How Math is Used in Video Games](https://github.com/learning-game-development/learning-unity-game-development/tree/master/How-Math-is-Used-in-Video-Games/) :rocket:
+7. :heavy_check_mark: Absolute Guide: Linux Tutorial for Beginners
 
 ## :page_with_curl: License
 
