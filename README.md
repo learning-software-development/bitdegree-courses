@@ -22,7 +22,7 @@ Online courses and tutorials on BitDegree that I completed to expand my knowledg
 ## Game Development Courses
 
 1. :heavy_check_mark: [Beginner Guide to How to Make a Game with Unity](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Beginner-Guide-to-How-to-Make-a-Game-with-Unity) :rocket:
-2. :o: [How Math is Used in Video Games](https://github.com/learning-game-development/learning-unity-game-development/tree/master/How-Math-is-Used-in-Video-Games/) :rocket:
+2. :heavy_check_mark: [How Math is Used in Video Games](https://github.com/learning-game-development/learning-unity-game-development/tree/master/How-Math-is-Used-in-Video-Games/) :rocket:
 
 ## :page_with_curl: License
 
