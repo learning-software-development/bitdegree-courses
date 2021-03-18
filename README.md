@@ -14,6 +14,7 @@ Online courses and tutorials on BitDegree that I completed to expand my knowledg
 3. :heavy_check_mark: [Learn Web Design: The Ultimate Guide For Beginners](https://www.bitdegree.org/course/learn-web-design) :link:
 4. :heavy_check_mark: [Absolute Guide: Linux Tutorial for Beginners](https://www.bitdegree.org/course/linux-tutorial) :link:
 5. :heavy_check_mark: [Learn Solidity with Space Doggo: an Interactive Solidity Tutorial](https://www.bitdegree.org/course/learn-solidity-space-doggos) :link:
+6. :o: [Chrome DevTools Introduction 2020 Web Developers Guide](https://www.bitdegree.org/course/chrome-devtools-introduction-2020-web-developers-guide) :link:
 
 ## Software Development Courses
 
