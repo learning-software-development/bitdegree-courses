@@ -9,8 +9,6 @@
 3. Distance Traveled (Constant Rate) `D = r * t` rate times time
 4. Cost `C = n * p` n is amount of item and p is price per item
 
-[course]: https://www.bitdegree.org/user/course/basic-algebra/75527
-
 ## Euclidean Geometry
 
 Euclid's Postulates
@@ -26,3 +24,5 @@ Euclid's Postulates
 1. A straight line is the shortest possible line between two points.
 2. Parallel lines are a constant distance from each other.
 3. The angles in triangles always add up to 180
+
+[course]: https://www.bitdegree.org/user/course/basic-algebra/75527
